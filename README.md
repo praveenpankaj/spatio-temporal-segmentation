@@ -17,5 +17,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Requirements
 
-A `requirements.txt` file is recommended for specifying the necessary Python packages. Based on the HiPC_Final.pdf and typical deep learning tasks, the following packages are likely required (this is an *example*, please verify using the notebook):
+The following [requirements.txt](requirements.txt) file is recommended for specifying the necessary Python packages. Based on the notebook, please update the requirements based on your needs.
 
